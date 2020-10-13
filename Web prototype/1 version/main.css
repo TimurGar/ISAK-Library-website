@@ -1,0 +1,776 @@
+.mediaViewInfo {
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Custom_Size__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Custom_Size__1 {
+	position: absolute;
+	width: 1400px;
+	height: 1834px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_13 {
+	fill: rgba(255,126,103,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 54px;
+	left: 100px;
+	top: 1124px;
+}
+#Rectangle_14 {
+	fill: rgba(255,126,103,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 54px;
+	left: 366px;
+	top: 1124px;
+}
+#Rectangle_15 {
+	fill: rgba(255,126,103,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	height: 54px;
+	left: 709px;
+	top: 1124px;
+}
+#Rectangle_16 {
+	fill: rgba(255,126,103,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	height: 54px;
+	left: 1071px;
+	top: 1124px;
+}
+#Rectangle_1 {
+	opacity: 0.549;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	height: 98px;
+	left: 130px;
+	top: 0px;
+}
+#Log_in_ {
+	position: absolute;
+	width: 70px;
+	height: 23px;
+	left: 833px;
+	top: 38px;
+	overflow: visible;
+}
+#LOG_IN {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(104,176,171,1);
+}
+#Create_account {
+	position: absolute;
+	width: 84px;
+	height: 23px;
+	left: 715px;
+	top: 38px;
+	overflow: visible;
+}
+#SIGN_UP {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(104,176,171,1);
+}
+#UWC-ISAK-Japan_Secondary-Logo- {
+	position: absolute;
+	width: 145px;
+	height: 68px;
+	left: 140px;
+	top: 16px;
+	overflow: visible;
+}
+#Welcome_to__ISAK_Library {
+	filter: drop-shadow(0px 10px 6px rgba(0, 0, 0, 0.161));
+	left: 453px;
+	top: 160px;
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(38,59,57,1);
+}
+#Rectangle_3 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 154px;
+	top: 475px;
+}
+#Articles {
+	left: 197px;
+	top: 487px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#E-books {
+	left: 194px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(38,59,57,1);
+}
+#ID500 {
+	left: 117px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#ID500_v {
+	left: 383px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#ID4 {
+	left: 728px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Printed_books {
+	left: 459px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(38,59,57,1);
+}
+#Daily_newspapers__and_magazine {
+	left: 772px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(38,59,57,1);
+}
+#Multimedia__materials {
+	left: 1133px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(38,59,57,1);
+}
+#Log_in__ {
+	position: absolute;
+	width: 96px;
+	height: 23px;
+	left: 585px;
+	top: 38px;
+	overflow: visible;
+}
+#CATALOG {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(104,176,171,1);
+}
+#Log_in__ba {
+	position: absolute;
+	width: 64px;
+	height: 23px;
+	left: 487px;
+	top: 38px;
+	overflow: visible;
+}
+#HOME {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(12,106,113,1);
+}
+#Rectangle_8 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 376px;
+	top: 474px;
+}
+#Rectangle_9 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 598px;
+	top: 475px;
+}
+#Rectangle_10 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 820px;
+	top: 474px;
+}
+#Rectangle_11 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 1042px;
+	top: 475px;
+}
+#Create_account_ {
+	opacity: 0.695;
+	position: absolute;
+	width: 772px;
+	height: 70px;
+	left: 314px;
+	top: 330px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 772px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1_ba {
+	fill: rgba(212,221,220,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_ba {
+	position: absolute;
+	overflow: visible;
+	width: 772px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Search {
+	left: 342.5px;
+	top: 352.5px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,176,171,1);
+}
+#Check_our_stats {
+	left: 581px;
+	top: 667px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,126,103,1);
+}
+#Create_account_bd {
+	position: absolute;
+	width: 74px;
+	height: 70px;
+	left: 1012px;
+	top: 330px;
+	overflow: visible;
+}
+#Group_1_be {
+	position: absolute;
+	width: 74px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1_bf {
+	fill: rgba(255,126,103,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_bf {
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2 {
+	position: absolute;
+	width: 48px;
+	height: 23.065px;
+	left: 676.5px;
+	top: 713.5px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(244,157,141,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 25.946px;
+	height: 25.893px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(244,157,141,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 25.828px;
+	height: 25.828px;
+	left: 25px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-search {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-search {
+	overflow: visible;
+	position: absolute;
+	width: 35.997px;
+	height: 36.004px;
+	left: 1031px;
+	top: 347px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#E-books_ {
+	left: 417px;
+	top: 487px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#Images {
+	left: 645px;
+	top: 487px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#__Statistics {
+	left: 855px;
+	top: 450px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#Other__ {
+	left: 1095px;
+	top: 487px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#Icon_metro-books {
+	fill: rgba(0,106,113,1);
+}
+.Icon_metro-books {
+	overflow: visible;
+	position: absolute;
+	width: 142.992px;
+	height: 114.96px;
+	left: 434px;
+	top: 991px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-library-books {
+	fill: rgba(0,106,113,1);
+}
+.Icon_material-library-books {
+	overflow: visible;
+	position: absolute;
+	width: 114.96px;
+	height: 114.96px;
+	left: 143px;
+	top: 991px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Image_1 {
+	position: absolute;
+	width: 318px;
+	height: 117px;
+	left: 265px;
+	top: 1372px;
+	overflow: visible;
+}
+#Library_statistics {
+	left: 489px;
+	top: 849px;
+	position: absolute;
+	overflow: visible;
+	width: 423px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(83,80,70,1);
+}
+#Our_partners {
+	left: 584px;
+	top: 1261px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(83,80,70,1);
+}
+#Icon_material-phonelink {
+	fill: rgba(0,106,113,1);
+}
+.Icon_material-phonelink {
+	overflow: visible;
+	position: absolute;
+	width: 172.439px;
+	height: 114.96px;
+	left: 1128px;
+	top: 991px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#image_2 {
+	position: absolute;
+	width: 189px;
+	height: 167px;
+	left: 763px;
+	top: 968px;
+	overflow: visible;
+}
+#Image_2_bv {
+	position: absolute;
+	width: 387px;
+	height: 167px;
+	left: 820px;
+	top: 1356px;
+	overflow: visible;
+}
+#Group_3 {
+	transform: matrix(1,0,0,1,-496.4488,1701.4954) rotate(0.25deg);
+	transform-origin: center;
+	position: absolute;
+	width: 2169.799px;
+	height: 152.509px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(212,221,220,0.345);
+	stroke: rgba(112,112,112,0.012);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1404.491px;
+	height: 121.8px;
+	left: 496.426px;
+	top: 8.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Copyrights_2020_created_by_ISA {
+	left: 708.511px;
+	top: 34.6px;
+	position: absolute;
+	overflow: visible;
+	width: 978px;
+	height: 121px;
+	line-height: 44px;
+	margin-top: -12px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,106,113,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(58,183,169,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1925.092px;
+	height: 25.399px;
+	left: 0.635px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(58,183,169,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1925.092px;
+	height: 25.399px;
+	left: 244.895px;
+	top: 124.076px;
+	transform: matrix(1,0,0,1,0,0);
+}
