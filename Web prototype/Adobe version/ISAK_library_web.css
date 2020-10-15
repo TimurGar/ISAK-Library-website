@@ -1,0 +1,897 @@
+.mediaViewInfo {
+	--web-view-name: ISAK Library;
+	--web-view-id: ISAK_Library;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ISAK_Library;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+
+#real_input{
+	background-color: #d4dddc;
+	font-size: 20px;
+	width: 600px;
+	height: 50px;
+
+}
+
+#ISAK_Library {
+	position: absolute;
+	width: 1400px;
+	height: 1721px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: ISAK Library;
+	--web-view-id: ISAK_Library;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Footer {
+	transform: matrix(1,0,0,1,-500.4488,1589.4954) rotate(0.25deg);
+	transform-origin: center;
+	position: absolute;
+	width: 2169.799px;
+	height: 152.509px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(212,221,220,0.345);
+	stroke: rgba(112,112,112,0.012);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1404.491px;
+	height: 121.8px;
+	left: 496.426px;
+	top: 8.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Copyrights_2020_created_by_ISA {
+	left: 708.511px;
+	top: 34.6px;
+	position: absolute;
+	overflow: visible;
+	width: 978px;
+	height: 121px;
+	line-height: 44px;
+	margin-top: -12px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,106,113,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(58,183,169,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1925.092px;
+	height: 25.399px;
+	left: 0.635px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(58,183,169,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1925.092px;
+	height: 25.399px;
+	left: 244.895px;
+	top: 124.076px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Main_page {
+	position: absolute;
+	width: 1096px;
+	height: 720.5px;
+	left: 140px;
+	top: 16px;
+	overflow: visible;
+}
+#Check_our_stats {
+	position: absolute;
+	width: 239px;
+	height: 69.5px;
+	left: 441px;
+	top: 651px;
+	overflow: visible;
+}
+#Check_our_stats_n {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,126,103,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 51px;
+	height: 24px;
+	left: 94.5px;
+	top: 45.5px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(244,157,141,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 26.828px;
+	height: 26.828px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(244,157,141,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 26.828px;
+	height: 26.828px;
+	left: 27px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Other {
+	position: absolute;
+	width: 194px;
+	height: 84px;
+	left: 902px;
+	top: 459px;
+	overflow: visible;
+}
+#Rectangle_11:hover {
+	fill: #68B0AB;
+	stroke: #68B0AB;
+}
+#Rectangle_11 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#Other__ {
+	left: 53px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#Statistics {
+	position: absolute;
+	width: 194px;
+	height: 83px;
+	left: 680px;
+	top: 434px;
+	overflow: visible;
+}
+#Rectangle_10:hover {
+	fill: #68B0AB;
+	stroke: #68B0AB;
+}
+#Rectangle_10 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 0px;
+	top: 24px;
+}
+#__Statistics {
+	left: 35px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#Images {
+	position: absolute;
+	width: 194px;
+	height: 59px;
+	left: 458px;
+	top: 459px;
+	overflow: visible;
+}
+#Rectangle_9:hover {
+	fill: #68B0AB;
+	stroke: #68B0AB;
+}
+#Rectangle_9 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#Images_z {
+	left: 47px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#Ebooks {
+	position: absolute;
+	width: 194px;
+	height: 72px;
+	left: 236px;
+	top: 458px;
+	overflow: visible;
+}
+#Rectangle_8:hover {
+	fill: #68B0AB;
+	stroke: #68B0AB;
+}
+#Rectangle_8 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#E-books_ {
+	left: 41px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+
+#Articles {
+	position: absolute;
+	width: 194px;
+	height: 59px;
+	left: 14px;
+	top: 459px;
+	overflow: visible;
+}
+#Rectangle_3:hover {
+	fill: #68B0AB;
+	stroke: #68B0AB;
+}
+#Rectangle_3 {
+	fill: rgba(12,106,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 5px 6px rgba(115, 125, 126, 1));
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#Articles_ {
+	left: 43px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(250,243,221,1);
+}
+#Search_bar {
+	position: absolute;
+	width: 772px;
+	height: 70px;
+	left: 174px;
+	top: 314px;
+	overflow: visible;
+}
+
+#Rectangle_1 {
+	fill: rgba(212,221,220,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 772px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Search {
+	top: 10px;
+	left: 28.5px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,176,171,1);
+}
+#Rectangle_1_ {
+	fill: rgba(255,126,103,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_ {
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	height: 70px;
+	left: 698px;
+	top: 0px;
+}
+#Icon_awesome-search {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-search {
+	overflow: visible;
+	position: absolute;
+	width: 35.997px;
+	height: 36.004px;
+	left: 717px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Welcome_to__ISAK_Library {
+	filter: drop-shadow(0px 10px 6px rgba(0, 0, 0, 0.161));
+	left: 313px;
+	top: 144px;
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(38,59,57,1);
+}
+#UWC-ISAK-Japan_Secondary-Logo- {
+	position: absolute;
+	width: 145px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Navbar {
+	position: absolute;
+	width: 416px;
+	height: 23px;
+	left: 347px;
+	top: 22px;
+	overflow: visible;
+}
+#LOG_IN a {
+	text-decoration: none;
+	color: #68B0AB;
+}
+
+#LOG_IN a:hover {
+	color: #0C6A71;
+	text-decoration: none;
+	font-size: 25px;
+
+
+}
+#LOG_IN {
+	left: 346px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(104,176,171,1);
+}
+#SIGN_UP a {
+	text-decoration: none;
+	color: #68B0AB;
+}
+
+#SIGN_UP a:hover {
+	color: #0C6A71;
+	text-decoration: none;
+	font-size: 25px;
+}
+#SIGN_UP {
+	left: 228px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(104,176,171,1);
+}
+#CATALOG a {
+	text-decoration: none;
+	color: #68B0AB;
+}
+
+#CATALOG a:hover {
+	color: #0C6A71;
+	text-decoration: none;
+	font-size: 25px;
+z}
+#CATALOG {
+
+	left: 98px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(104,176,171,1);
+}
+
+
+
+#HOME a {
+	text-decoration: none;
+	color: #68B0AB;
+}
+
+#HOME a:hover {
+	color: #0C6A71;
+	text-decoration: none;
+	font-size: 25px;
+}
+#HOME {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(12,106,113,1);
+}
+#Library_Statistics {
+	position: absolute;
+	width: 1200.439px;
+	height: 624px;
+	left: 100px;
+	top: 849px;
+	overflow: visible;
+}
+#Printed_books {
+	position: absolute;
+	width: 278px;
+	height: 187px;
+	left: 266px;
+	top: 142px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(255,126,103,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 54px;
+	left: 0px;
+	top: 133px;
+}
+#ID500 {
+	left: 17px;
+	top: 144px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Printed_books_bm {
+	left: 93px;
+	top: 144px;
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(38,59,57,1);
+}
+#Icon_metro-books {
+	fill: rgba(0,106,113,1);
+}
+.Icon_metro-books {
+	overflow: visible;
+	position: absolute;
+	width: 142.992px;
+	height: 114.96px;
+	left: 68px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ebooks_bo {
+	position: absolute;
+	width: 201px;
+	height: 187px;
+	left: 0px;
+	top: 142px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(255,126,103,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 54px;
+	left: 0px;
+	top: 133px;
+}
+#E-books {
+	left: 94px;
+	top: 144px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(38,59,57,1);
+}
+#ID500_br {
+	left: 17px;
+	top: 144px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Icon_material-library-books {
+	fill: rgba(0,106,113,1);
+}
+.Icon_material-library-books {
+	overflow: visible;
+	position: absolute;
+	width: 114.96px;
+	height: 114.96px;
+	left: 43px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Multimedia_materials {
+	position: absolute;
+	width: 229.439px;
+	height: 220px;
+	left: 971px;
+	top: 142px;
+	overflow: visible;
+}
+#Rectangle_16 {
+	fill: rgba(255,126,103,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	height: 54px;
+	left: 0px;
+	top: 133px;
+}
+#Multimedia__materials {
+	left: 62px;
+	top: 144px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(38,59,57,1);
+}
+#Icon_material-phonelink {
+	fill: rgba(0,106,113,1);
+}
+.Icon_material-phonelink {
+	overflow: visible;
+	position: absolute;
+	width: 172.439px;
+	height: 114.96px;
+	left: 57px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Newpaper {
+	position: absolute;
+	width: 297px;
+	height: 243px;
+	left: 609px;
+	top: 119px;
+	overflow: visible;
+}
+#Rectangle_15 {
+	fill: rgba(255,126,103,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	height: 54px;
+	left: 0px;
+	top: 156px;
+}
+#ID4 {
+	left: 19px;
+	top: 167px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Daily_newspapers__and_magazine {
+	left: 63px;
+	top: 167px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(38,59,57,1);
+}
+#Newspaper {
+	position: absolute;
+	width: 189px;
+	height: 167px;
+	left: 54px;
+	top: 0px;
+	overflow: visible;
+}
+#Our_statistics {
+	position: absolute;
+	width: 942px;
+	height: 212px;
+	left: 163px;
+	top: 412px;
+	overflow: visible;
+}
+#Image_1 {
+	position: absolute;
+	width: 318px;
+	height: 117px;
+	left: 0px;
+	top: 61px;
+	overflow: visible;
+}
+#Our_partners {
+	left: 321px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(83,80,70,1);
+}
+#Gale_in_context {
+	position: absolute;
+	width: 387px;
+	height: 167px;
+	left: 555px;
+	top: 45px;
+	overflow: visible;
+}
+#Library_statistics {
+	left: 389px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 423px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(83,80,70,1);
+}
